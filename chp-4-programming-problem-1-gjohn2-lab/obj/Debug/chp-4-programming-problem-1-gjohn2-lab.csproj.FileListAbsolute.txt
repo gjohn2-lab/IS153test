@@ -1,0 +1,10 @@
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\bin\Debug\chp-4-programming-problem-1-gjohn2-lab.exe.config
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\bin\Debug\chp-4-programming-problem-1-gjohn2-lab.exe
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\bin\Debug\chp-4-programming-problem-1-gjohn2-lab.pdb
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp-4-programming-problem-1-gjohn2-lab.csproj.AssemblyReference.cache
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp_4_programming_problem_1_gjohn2_lab.Form1.resources
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp_4_programming_problem_1_gjohn2_lab.Properties.Resources.resources
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp-4-programming-problem-1-gjohn2-lab.csproj.GenerateResource.cache
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp-4-programming-problem-1-gjohn2-lab.csproj.CoreCompileInputs.cache
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp-4-programming-problem-1-gjohn2-lab.exe
+C:\Users\Gigy j\source\repos\chp-4-programming-problem-1-gjohn2-lab\obj\Debug\chp-4-programming-problem-1-gjohn2-lab.pdb
